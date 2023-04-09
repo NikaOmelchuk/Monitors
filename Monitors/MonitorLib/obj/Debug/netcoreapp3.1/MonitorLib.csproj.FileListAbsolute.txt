@@ -1,0 +1,10 @@
+C:\Users\Саша\Desktop\Визуалка\кпз\Monitors\MonitorLib\bin\Debug\netcoreapp3.1\MonitorLib.deps.json
+C:\Users\Саша\Desktop\Визуалка\кпз\Monitors\MonitorLib\bin\Debug\netcoreapp3.1\MonitorLib.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Monitors\MonitorLib\bin\Debug\netcoreapp3.1\MonitorLib.pdb
+C:\Users\Саша\Desktop\Визуалка\кпз\Monitors\MonitorLib\obj\Debug\netcoreapp3.1\MonitorLib.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\Визуалка\кпз\Monitors\MonitorLib\obj\Debug\netcoreapp3.1\MonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\Визуалка\кпз\Monitors\MonitorLib\obj\Debug\netcoreapp3.1\MonitorLib.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\Визуалка\кпз\Monitors\MonitorLib\obj\Debug\netcoreapp3.1\MonitorLib.AssemblyInfo.cs
+C:\Users\Саша\Desktop\Визуалка\кпз\Monitors\MonitorLib\obj\Debug\netcoreapp3.1\MonitorLib.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Визуалка\кпз\Monitors\MonitorLib\obj\Debug\netcoreapp3.1\MonitorLib.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Monitors\MonitorLib\obj\Debug\netcoreapp3.1\MonitorLib.pdb
